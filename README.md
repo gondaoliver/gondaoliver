@@ -1,7 +1,6 @@
 ## Üdv! 👋
 Olivér vagyok, és kisebb projektekkel foglalkozok.<br>
-<a href="https://github.com/gondaoliver/glogger">GLogger
-, a saját Discord logger botom.
+<a href="https://github.com/gondaoliver/glogger">GLogger, a saját Discord logger botom.
 <!--
 **gondaoliver/gondaoliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
