@@ -1,7 +1,7 @@
 ## Üdv! 👋
 Olivér vagyok, és kisebb projektekkel foglalkozok.<br>
 <a href="https://github.com/gondaoliver/glogger">GLogger</a>, a saját Discord logger botom. <br>
-A <a href="https://github.com/gondaoliver/sufnirobot-v1" SufniRobot</a> projekt, a SufniTech robotika csapat robotja.
+A <a href="https://github.com/gondaoliver/sufnirobot-v1">SufniRobot</a> projekt, a SufniTech robotika csapat robotja.
 <!--
 **gondaoliver/gondaoliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
